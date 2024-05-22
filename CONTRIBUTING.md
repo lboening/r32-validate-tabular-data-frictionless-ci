@@ -1,11 +1,11 @@
 # Contributing
 
-## Istall
+## Install
 
 Install development dependencies:
 
 ```bash tabs=CLI
-make intall
+make install
 ```
 
 ## Test
