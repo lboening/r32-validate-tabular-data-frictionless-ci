@@ -49,7 +49,7 @@ jobs:
           echo '!**/*.html' >> .gitignore
           make install
           livemark build
-      - name: Publush to Github Pages
+      - name: Publish to Github Pages
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           branch: site
