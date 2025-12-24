@@ -1,0 +1,61 @@
+---
+# Repository Metadata
+# Per project instructions: MkDocs + Material theme, YAML frontmatter validation
+
+repository:
+  name: "r32-validate-tabular-data-frictionless-ci"
+  full_name: "lboening/r32-validate-tabular-data-frictionless-ci"
+  description: "Use frictionless-ci to validate R32 data"
+  url: "https://github.com/lboening/r32-validate-tabular-data-frictionless-ci"
+  default_branch: "main"
+
+metadata:
+  title: "r32-validate-tabular-data-frictionless-ci"
+  description: "Use frictionless-ci to validate R32 data"
+  authors: ["Luke Boening"]
+  tags: []
+  keywords: []
+  topics: []
+  categories: []
+  status: "active"
+  last_updated: "2025-12-18"
+  review_cycle_days: 90
+
+technical:
+  language: "JavaScript"
+  languages: []
+  framework: ""
+  dependencies: []
+
+documentation:
+  readme: "README.md"
+  docs_site: ""
+  wiki_enabled: false
+  
+organization:
+  visibility: "public"
+  archived: false
+  disabled: false
+  fork: true
+  
+features:
+  has_issues: false
+  has_projects: true
+  has_downloads: true
+  has_pages: false
+
+statistics:
+  stars: 0
+  forks: 0
+  watchers: 0
+  open_issues: 0
+  size_kb: 3757
+  created_at: "05/22/2024 17:14:26"
+  updated_at: "05/22/2024 17:15:47"
+
+links:
+  homepage: "https://repository.frictionlessdata.io"
+  clone_url: "https://github.com/lboening/r32-validate-tabular-data-frictionless-ci.git"
+  ssh_url: "git@github.com:lboening/r32-validate-tabular-data-frictionless-ci.git"
+---
+
